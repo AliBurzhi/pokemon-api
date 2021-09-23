@@ -1,0 +1,24 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliBurzhi/pokemon-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliBurzhi/pokemon-api/issues"
+  },
+  "homepage": "https://github.com/AliBurzhi/pokemon-api#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}

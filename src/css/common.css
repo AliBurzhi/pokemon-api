@@ -17,6 +17,11 @@ img {
     height: auto;
 }
 
+.container-main {
+    width: 400px;
+    margin: 0 auto;
+}
+
 .card {
     width: 288px;
 }
